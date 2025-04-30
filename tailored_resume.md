@@ -1,101 +1,67 @@
-## Pedro Afonso Marques Oliveira
+```markdown
+# Pedro Afonso Marques d'Oliveira
+- Email: pedroafonso.mo@gmail.com
+- Linkedin: [Pedro Afonso Marques d'Oliveira](https://www.linkedin.com/in/pedro-afonso-marques-doliveira/)
 
-### Personal Information:
-- **Name**: Pedro Afonso Marques Oliveira
-- **Location**: Portugal
-- **GitHub**: [pamdo-iscte](https://github.com/pamdo-iscte)
-- **Education**: Student at ISCTE (Instituto Superior de Ciências do Trabalho e da Empresa)
+## Profile
+A highly skilled and result-driven software engineer with a strong foundation in machine learning, data analysis, and software engineering. Proficient in Python and experienced with machine learning frameworks such as TensorFlow and PyTorch. Proven ability to develop and deploy machine learning models, collaborate in cross-functional teams, and manage end-to-end machine learning projects. Eager to leverage my expertise in intelligent systems and data analysis to contribute to innovative projects at AI Fund.
 
-### Professional Summary:
-Pedro is a Software Engineer with international academic and professional experience, skilled in full-stack development using Java, Spring, React, and Python. He has a proven ability to deliver robust web and mobile solutions, with a strong foundation in intelligent systems, data analysis, and machine learning. Pedro has developed real-time applications and scalable APIs across various industries, collaborating effectively in cross-functional teams. He is open to global opportunities and driven by curiosity, growth, and impactful engineering.
+## Work History
 
-### Skills:
-1. **Programming Languages**:
-   - JavaScript
-   - Python
-   - React
-   - Java
-   - Kotlin
-   - Spring
+### Software Engineer @ Opensoft (09/2024-Currently)
+- Engineered frontend solutions with TypeScript, React, and Angular, and backend systems with Java and Spring.
+- Responsible for API development, database design, and testing to ensure software quality.
+- Collaborated with cross-functional teams to deliver high-quality software solutions, enhancing user experience.
+- **Relevance**: Demonstrates strong software engineering skills, including backend systems and API development, which are crucial for ML engineering.
 
-2. **Technologies**:
-   - Front-end: HTML, CSS, React, Angular, Vue
-   - Back-end: Python, Java, Spring
-   - Databases: PostgreSQL, MySQL, MongoDB
-   - APIs: RESTful APIs, WebSockets
-   - Version Control: Git
-   - Containerization: Docker
-   - Cloud: AWS
-   - Others: Maven, Genetic Algorithms, Screen Capturing, MQTT, HTTP Server Implementation, JavaFX
+### Software Developer @ Caixa Mágica Software (07/2022- 09/2023)
+- Developed and maintained the official websites for the Bar Association and the Architects' Association using Java, JavaScript, React, and LifeRay, ensuring functionality, performance, and user experience.
+- Developed a cross-platform mobile application for Android and iOS using React Native, Node.js, and Socket.IO, ensuring real-time communication and seamless performance.
+- **Relevance**: Experience in developing and maintaining websites and mobile applications, showcasing the ability to work with diverse technologies and ensure functionality and performance.
 
-3. **Development Areas**:
-   - Full-Stack Development
-   - Intelligent Systems
-   - Data Analysis
-   - Machine Learning
-   - Real-Time Applications
-   - Scalable APIs
-   - Cross-Functional Team Collaboration
-   - AI/ML Products or Tooling
-   - Modern Data Querying Protocols: GraphQL, gRPC, tRPC
-   - Serverless Deployments
+### Tech Intern Risk Advisory FS @ Deloitte (07/2021-07/2021)
+- Technologies used: Django, Python.
+- Developed a web application for the Risk Advisory team, enhancing data analysis and reporting capabilities.
+- **Relevance**: Developed a web application for data analysis and reporting, highlighting experience with Python and data analysis, which are essential for ML engineering.
 
-### Project Experiences:
-1. **adsbackend**:
-   - A Java project containing various data files.
-   - Skills: Java, Maven.
+## Education
 
-2. **ES-LEI-2Sem-2022-Grupo-22**:
-   - Contains minimal information and no detailed description.
+### Eramus / Double Degree Master's in Intelligent Systems & Applications (09/2023-11/2024)
+Université Gustave Eiffel
+- Focused on designing and managing the next generation of intelligent systems.
+- Key areas: Modelling & Simulation, Data Analysis, Reliability & Maintenance, Acceptability of New Intelligent Systems.
+- Project management and end-of-studies internship.
+- **Relevance**: Provides extensive knowledge in modelling & simulation, data analysis, reliability & maintenance, and the acceptability of new intelligent systems, which are highly relevant to the role.
 
-3. **exemplos-blog**:
-   - Forked from another repository, contains various Java projects related to blog post examples, including:
-     - Genetic algorithms for function minimization.
-     - Screen capturing in Java.
-     - MQTT usage in Java.
-     - HTTP server implementation in Java.
-     - JavaFX snapshot capturing.
-   - Skills: Java, Genetic Algorithms, Screen Capturing, MQTT, HTTP Server, JavaFX.
+### Master's in Computer Engineering (09/2022-11/2024)
+Iscte
+- Master's Thesis: Navigating the Mobile App Galaxy: Harnessing Textual Metadata for App Categorization – Scored 17/20.
+- Worked extensively with NLP, encoders, decoders, LLMs, and machine learning techniques for app classification.
+- **Relevance**: Further enhances qualifications, especially with a thesis focused on NLP, encoders, decoders, LLMs, and machine learning techniques for app categorization.
 
-4. **PremiumMinds_summer-internship-2022**:
-   - A Java project focused on implementing a screen locking pattern mechanism.
-   - Skills: Java.
+### Bachelor's Degree in Computer Engineering (09/2019-06/2022)
+Iscte
+- **Relevance**: Meets the requirement for a Bachelor's degree in Computer Science, Engineering, or a related field.
 
-5. **adsfrontend**:
-   - A React project bootstrapped with Create React App.
-   - Skills: JavaScript, React.
+## Certificates and Academic Evidences
 
-6. **programacaoavancada**:
-   - A Kotlin project.
-   - Skills: Kotlin.
+- Excellence Award - Undergraduate Entrance from University Institute of Lisbon
+- Certificate in Advanced English (C1) from University of Cambridge
+- Prompt Engineering for Everyone from IBM Developer Skills Network
+- Spring Framework Master Class - Java Spring the Modern Way from Udemy
+- SQL and Relational Databases 101 from IBM Developer Skills Network
+- Python 101 for Data Science from IBM Developer Skills Network
+- Certificate Algorithms Part 1 from Princeton University
+- Academy Accreditation - Generative AI Fundamentals
+- **Relevance**: Enhances data science skills, which are crucial for ML engineering, and demonstrates a strong foundation in algorithms, essential for ML model training and fine-tuning.
 
-### Contributions:
-1. **adsbackend**:
-   - Contributed to a Java project with various data files.
+## Skills & Interests
+- Programming Skills: Java, Scala, Python, C, React-Native, NodeJS, Socket IO, Django, Liferay, CSS, React-Js, Git, Spring, R
+- Technical Skills: Full-stack development, API development, database design, testing, intelligent systems, data analysis, machine learning, real-time applications, cross-platform mobile development
+- Tools and Frameworks: Java, Spring, React, Python, Jupyter Notebook, LangChain, crewAI
+- **Relevance**: Proficiency in multiple programming languages and frameworks, including Python, which is widely used in machine learning.
+- Interests: Federated in Surf by Peniche Surfing Clube; SSI Open Water Diver Scuba Diving Certification
 
-2. **exemplos-blog**:
-   - Contributed to various Java projects related to blog post examples, including genetic algorithms, screen capturing, MQTT usage, HTTP server implementation, and JavaFX snapshots.
-
-3. **PremiumMinds_summer-internship-2022**:
-   - Implemented a screen locking pattern mechanism in Java.
-
-4. **adsfrontend**:
-   - Developed a React application using Create React App.
-
-5. **programacaoavancada**:
-   - Contributed to a Kotlin project.
-
-### Additional Experiences:
-1. **Web and Mobile Solutions**: Delivered robust web and mobile solutions.
-2. **Global Opportunities**: Open to global opportunities, indicating experience or interest in international projects.
-3. **Industry Experience**: Worked across various industries, though specific industries are not mentioned.
-
-### Interests:
-1. **Curiosity**: Driven by curiosity.
-2. **Growth**: Interested in personal and professional growth.
-3. **Impactful Engineering**: Focused on impactful engineering projects.
-
-### Communication Style:
-Pedro's communication style is collaborative and open, reflecting his experience working in cross-functional teams and his interest in global opportunities. He is driven by curiosity and a desire for growth, making him an effective communicator in diverse and international settings.
-
-This comprehensive profile highlights Pedro's skills, project experiences, contributions, interests, and communication style, making him a strong candidate for software engineering roles.
+## Language Skills
+- Fluent in English and native in Portuguese; A2 certificate in French
+```
